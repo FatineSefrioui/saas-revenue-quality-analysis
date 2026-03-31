@@ -11,7 +11,7 @@ Higher revenue does not always mean higher long-term value. Retention and churn 
 ![Customer Base](SaaS%20-%20Customer%20Base%20Preparation.png)
 
 ### Customer Lifetime Analysis
-![Lifetime](./SaaS%20-%20Average%20Customer%20Lifetime%20by%20Status.png)
+![Lifetime](SaaS%20-%20Average%20Customer%20Lifetime%20by%20Status%20.png)
 
 ### Revenue Calculation
 ![Revenue](./SaaS%20-%20Customer%20Total%20Revenue%20Calculation.png)
